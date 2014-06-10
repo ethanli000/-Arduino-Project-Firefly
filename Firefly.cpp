@@ -1,3 +1,9 @@
+/*
+ Firefly Class
+ author: Li Yingchen
+ 2014/06/06
+ */
+
 #include "Firefly.h"
 
 /*
